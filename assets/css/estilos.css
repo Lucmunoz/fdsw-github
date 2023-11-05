@@ -20,6 +20,14 @@ body {
   background-position: center;
 }
 
+#contacto
+{
+  background-image: url("../img/contacto-lucas.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
 #Mis-trabajos
 {
   background-color: #23222299 !important;
